@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @I-Lednev
-- 👀 I’m interested in C# and VBA(Excel)
+- 👀 I’m interested in C# 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C# app 
 - 📫 How to reach me rolf.90@mail.ru
